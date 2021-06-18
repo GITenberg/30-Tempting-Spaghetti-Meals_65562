@@ -1,0 +1,20 @@
+_repo: 30-Tempting-Spaghetti-Meals_65562
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Company, Campbell Soup
+    gutenberg_agent_id: '53404'
+    url: http://www.gutenberg.org/2009/agents/53404
+description: ''
+gutenberg_issued: '2021-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65562'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 30 Tempting Spaghetti Meals
+url: http://www.gutenberg.org/ebooks/65562
